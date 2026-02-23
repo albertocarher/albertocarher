@@ -81,7 +81,7 @@ Panel interactivo de visualización de datos.
 ## 🧰 Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,androidstudio,maven,git,github,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=java,androidstudio,maven,git,github,html,css" />
 </p>
 
 ---
@@ -94,6 +94,14 @@ Panel interactivo de visualización de datos.
   <img src="https://img.shields.io/badge/Kanban-FF8C00?style=for-the-badge"/>
 </p>
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=albertocarher&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertocarher&layout=compact" />
+</p>
 
 ---
 
