@@ -94,14 +94,6 @@ Panel interactivo de visualización de datos.
   <img src="https://img.shields.io/badge/Kanban-FF8C00?style=for-the-badge"/>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=albertocarher&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertocarher&layout=compact" />
-</p>
 
 ---
 
