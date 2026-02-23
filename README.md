@@ -10,13 +10,13 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/TU_PERFIL">
+  <a href="https://linkedin.com/in/alberto-carballo-hernández-b238b42b0">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:albertocarballohernandez@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/AlbertoCarballoHernandez">
+  <a href="https://github.com/albertocarher">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -47,7 +47,7 @@ Java · Android Studio
 
 Aplicación móvil desarrollada en Android para gestión de tareas.
 
-➡️ [Ver repositorio](https://github.com/juanespana/PROYECTO_ANDROID)
+➡️ [Ver repositorio](https://github.com/albertocarher/PROYECTO_ANDROID)
 
 </td>
 
@@ -58,7 +58,7 @@ Java · Spring · Maven
 
 Backend REST para gestión de datos y servicios.
 
-➡️ [Ver repositorio](https://github.com/juanespana/API_REST)
+➡️ [Ver repositorio](https://github.com/albertocarher/API_REST)
 
 </td>
 
@@ -69,7 +69,7 @@ React / Web
 
 Panel interactivo de visualización de datos.
 
-➡️ [Ver repositorio](https://github.com/juanespana/DASHBOARD)
+➡️ [Ver repositorio](https://github.com/albertocarher/DASHBOARD)
 
 </td>
 
@@ -99,8 +99,8 @@ Panel interactivo de visualización de datos.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlbertoCarballoHernandez&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoCarballoHernandez&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=albertocarher&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertocarher&layout=compact" />
 </p>
 
 ---
@@ -109,14 +109,15 @@ Panel interactivo de visualización de datos.
 
 <p align="center">
 
-💼 LinkedIn — https://linkedin.com/in/TU_PERFIL  
-📧 Email — TU_EMAIL  
-🌐 Portfolio — https://TU_WEB  
+💼 LinkedIn — https://linkedin.com/in/alberto-carballo-hernández-b238b42b0  
+📧 Email — albertocarballohernandez@gmail.com  
+🌐 Portfolio — https://albertocarher.github.io
+  
 
 </p>
 
 ---
 
 <p align="center">
-⭐ Gracias por visitar mi perfil — github.com/juanespana
+⭐ Gracias por visitar mi perfil — github.com/albertocarher
 </p>
