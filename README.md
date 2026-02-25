@@ -99,7 +99,7 @@ Panel interactivo de visualización de datos.
 ## 📊 GitHub Stats
 
 
-<a href="https://git.io/streak-stats">
+<a align="center" href="https://git.io/streak-stats">
 <img src="https://streak-stats.demolab.com?user=albertocarher&theme=merko&locale=es" alt="GitHub Streak" />
 </a>
 
