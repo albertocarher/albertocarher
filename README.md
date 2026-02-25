@@ -98,11 +98,11 @@ Panel interactivo de visualización de datos.
 
 ## 📊 GitHub Stats
 
-
+<div align="center">
 <a href="https://git.io/streak-stats">
-<img align-content="center" src="https://streak-stats.demolab.com?user=albertocarher&theme=merko&locale=es" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=albertocarher&theme=merko&locale=es" alt="GitHub Streak" />
 </a>
-
+</div>
 
 ---
 
